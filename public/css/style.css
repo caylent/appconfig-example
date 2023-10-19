@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#content {
+    height: 92vh;
+    padding: 20px;
+    background-color: #ffffff; /* Default background color */
+    transition: background-color 0.5s ease;
+}
+
+.feature {
+    color: white;
+    padding: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+    border: 2px solid black;
+    visibility: hidden;
+}
+
+#feature1 {
+    background-color: grey;
+}
+
+#feature2 {
+    background-color: grey;
+}
